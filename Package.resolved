@@ -1,16 +1,14 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "SwiftProtobuf",
-        "repositoryURL": "https://github.com/apple/swift-protobuf.git",
-        "state": {
-          "branch": null,
-          "revision": "65e8f29b2d63c4e38e736b25c27b83e012159be8",
-          "version": "1.25.2"
-        }
+  "pins" : [
+    {
+      "identity" : "swift-protobuf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/m3g0byt3/swift-protobuf.git",
+      "state" : {
+        "branch" : "enable-library-evolution-mode",
+        "revision" : "edc0e30f6984d7b8b68dc1669e02fb8593780c1c"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 2
 }
